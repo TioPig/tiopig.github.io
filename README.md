@@ -33,7 +33,7 @@ Portfolio profesional desarrollado con HTML5, CSS3 y JavaScript, presentando mis
 ## 💻 Instalación Local
 1. Clona el repositorio
 ```bash
-git clone https://github.com/TioPig/mi-portafolio.git
+git clone https://github.com/TioPig/tiopig.github.io.git
 ```
 2. Abre el archivo index.html en tu navegador
 
