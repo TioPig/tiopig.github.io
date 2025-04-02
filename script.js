@@ -197,3 +197,4 @@ document.querySelectorAll('.tech-item, .feature-item').forEach(item => {
     item.style.transform = 'translateY(20px)';
     item.style.transition = 'all 0.5s ease-out';
 });
+

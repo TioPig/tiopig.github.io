@@ -214,11 +214,11 @@ h3 {
     padding: 2rem;
 }
 
-.contact-form .input-group {
+#contactForm .input-group {
     margin-bottom: 1.5rem;
 }
 
-.contact-form .form-control {
+#contactForm .form-control {
     background: rgba(255, 255, 255, 0.1);
     border: 1px solid rgba(255, 255, 255, 0.1);
     color: var(--text-bright);
@@ -227,28 +227,28 @@ h3 {
     height: auto;
 }
 
-.contact-form .form-control:focus {
+#contactForm .form-control:focus {
     background: rgba(255, 255, 255, 0.15);
     border-color: var(--primary-color);
     box-shadow: 0 0 0 0.25rem rgba(0, 255, 136, 0.25);
 }
 
-.contact-form .form-control::placeholder {
+#contactForm .form-control::placeholder {
     color: var(--text-light);
 }
 
-.contact-form textarea.form-control {
+#contactForm textarea.form-control {
     min-height: 150px;
 }
 
-.contact-form .input-group-text {
+#contactForm .input-group-text {
     background: var(--primary-color);
     color: var(--dark-bg);
     border: none;
     padding: 0 1.5rem;
 }
 
-.contact-form button {
+#contactForm button {
     padding: 1rem 2.5rem;
     font-size: 1.1rem;
     width: auto;
@@ -258,11 +258,12 @@ h3 {
     color: var(--primary-color);
 }
 
-.contact-form button:hover {
+#contactForm button:hover {
     background: var(--primary-color);
     color: var(--dark-bg);
     box-shadow: var(--neon-glow);
 }
+
 
 /* Footer */
 footer {
