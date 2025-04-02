@@ -20,7 +20,7 @@ Portfolio profesional desarrollado con HTML5, CSS3 y JavaScript, presentando mis
 - FormSubmit
 
 ## 🔗 Enlaces
-- [Ver Portfolio](https://tiopig.github.io/mi-portafolio/)
+- [Ver Portfolio](https://tiopig.github.io/)
 - [LinkedIn](https://www.linkedin.com/in/italobrignardello/)
 - [GitHub](https://github.com/TioPig/)
 
