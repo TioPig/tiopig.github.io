@@ -318,16 +318,16 @@ footer {
     transform-origin: 50% 0%;
 }
 
-.solid .side:nth-child(1) { transform: translateY(-18.5px) rotateY(72deg) rotateX(52.62deg); }
-.solid .side:nth-child(2) { transform: translateY(-18.5px) rotateY(144deg) rotateX(52.62deg); }
-.solid .side:nth-child(3) { transform: translateY(-18.5px) rotateY(216deg) rotateX(52.62deg); }
-.solid .side:nth-child(4) { transform: translateY(-18.5px) rotateY(288deg) rotateX(52.62deg); }
-.solid .side:nth-child(5) { transform: translateY(-18.5px) rotateY(360deg) rotateX(52.62deg); }
-.solid .side:nth-child(6) { transform: translateY(361.8px) rotateY(468deg) rotateX(127.38deg); }
-.solid .side:nth-child(7) { transform: translateY(361.8px) rotateY(540deg) rotateX(127.38deg); }
-.solid .side:nth-child(8) { transform: translateY(361.8px) rotateY(612deg) rotateX(127.38deg); }
-.solid .side:nth-child(9) { transform: translateY(361.8px) rotateY(684deg) rotateX(127.38deg); }
-.solid .side:nth-child(10) { transform: translateY(361.8px) rotateY(756deg) rotateX(127.38deg); }
+.solid .side:nth-child(1) { transform: translateY(-17.5px) rotateY(72deg) rotateX(52.62deg); }
+.solid .side:nth-child(2) { transform: translateY(-17.5px) rotateY(144deg) rotateX(52.62deg); }
+.solid .side:nth-child(3) { transform: translateY(-17.5px) rotateY(216deg) rotateX(52.62deg); }
+.solid .side:nth-child(4) { transform: translateY(-17.5px) rotateY(288deg) rotateX(52.62deg); }
+.solid .side:nth-child(5) { transform: translateY(-17.5px) rotateY(360deg) rotateX(52.62deg); }
+.solid .side:nth-child(6) { transform: translateY(360.8px) rotateY(468deg) rotateX(127.38deg); }
+.solid .side:nth-child(7) { transform: translateY(360.8px) rotateY(540deg) rotateX(127.38deg); }
+.solid .side:nth-child(8) { transform: translateY(360.8px) rotateY(612deg) rotateX(127.38deg); }
+.solid .side:nth-child(9) { transform: translateY(360.8px) rotateY(684deg) rotateX(127.38deg); }
+.solid .side:nth-child(10) { transform: translateY(360.8px) rotateY(756deg) rotateX(127.38deg); }
 .solid .side:nth-child(11) { transform: translateY(86.6px) rotateY(828deg) translateZ(170.1px) rotateX(-10.81deg); }
 .solid .side:nth-child(12) { transform: translateY(86.6px) rotateY(900deg) translateZ(170.1px) rotateX(-10.81deg); }
 .solid .side:nth-child(13) { transform: translateY(86.6px) rotateY(972deg) translateZ(170.1px) rotateX(-10.81deg); }
